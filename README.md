@@ -40,7 +40,7 @@ An intelligent Streamlit app that analyzes videos to extract **textual and visua
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/video-processor.git
+git clone https://github.com/Shubh-003/VidPro.git
 cd video-processor
 ```
 ### 2️⃣ Create virtual environment (optional)
